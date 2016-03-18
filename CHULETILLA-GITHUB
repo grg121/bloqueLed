@@ -1,0 +1,5 @@
+clonar el repositorio: git clone https://github.com/grg121/bloqueLed
+añadir cosicas: git add . 
+hacer el commit: git commit -m "mensaje explicativo"
+descargar cambios "git pull"
+subir tus cambios "git push" 
