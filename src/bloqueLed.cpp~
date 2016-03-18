@@ -68,7 +68,7 @@ void encendidos(bloqueLed b, int posic[], int &cuantos)
 	volcar(b,vector);//le pasamos a vector los estados de los led
   	
 	
-
+}
 
 	for(int i=0 ; i<8 ; i++)
 	{
